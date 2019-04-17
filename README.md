@@ -42,9 +42,9 @@ $ docker image ls
 for test the running docker container
 ```
 $ docker container ps
-
+```
 for test the running docker-compose
-
+```
 $ docker-compose ps
 ```
 
